@@ -45,8 +45,9 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| 🎯 **Sistema de Control de Acceso** | Registro biométrico con informes | Python, SQL |
+| 🎯 **Sistema de Control de Acceso** | Registro biométrico con informes | Python, SQL | proximamente!!
 | 🧠 **App de Nutrición** | Evalúa alimentos ultraprocesados | React Native | proximamente!!
+| 💻 **prototipo tienda web** | pagina web con base de datos y funcional | javascript, HTML5, CSS | proximamente!!
 
 
 ---
