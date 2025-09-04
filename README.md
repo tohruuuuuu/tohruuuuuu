@@ -12,7 +12,7 @@
 ## 🚀 Sobre mí
 
 - 🔐 Estudiante de **Ciberseguridad**
-- ⚙️ Desarrollador de sistemas de **control de acceso** (proyecto de grado)
+- ⚙️ Desarrollador de sistemas de **control de acceso** 
 - 📲 Co-creador de una app de nutrición (proximamente)
 - 🎬 Apasionado por la **cinematografía y los viajes**
 - 🤖 Explorando el poder de la **IA** en el día a día
