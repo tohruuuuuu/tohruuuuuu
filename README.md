@@ -54,7 +54,7 @@
 ## 🌎 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-gonzalez-tohruu)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sebastiam.gr?igsh=MXNxdXlrY3Z1eHE3bA%3D%3D&utm_source=qr))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sebastiam.gr?igsh=MXNxdXlrY3Z1eHE3bA%3D%3D&utm_source=qr)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smgonalez@gmail.com)
 
 ---
