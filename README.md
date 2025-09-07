@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Sebastián! 👋</h1>
-<h3 align="center">Estudiante de Ciberseguridad | Estudiante de Analisis y Desarrollo de Software | futuro filmaker</h3>
+<h3 align="center"> Estudiante de Analisis y Desarrollo de Software | Estudiante de Ciberseguridad| frontend lover</h3>
 
 ---
 
@@ -12,8 +12,7 @@
 ## 🚀 Sobre mí
 
 - 🔐 Estudiante de **Ciberseguridad**
-- ⚙️ Desarrollador de sistemas de **control de acceso** 
-- 📲 Co-creador de una app de nutrición (proximamente)
+- ⚙️ Desarrollando mi proyecto de grado 
 - 🎬 Apasionado por la **cinematografía y los viajes**
 - 🤖 Explorando el poder de la **IA** en el día a día
 - 💡 Siempre aprendiendo, creando y compartiendo
@@ -55,7 +54,7 @@
 ## 🌎 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-gonzalez-tohruu)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tohruuu_u?igsh=MXNxdXlrY3Z1eHE3bA%3D%3D&utm_source=qr )
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sebastiam.gr?igsh=MXNxdXlrY3Z1eHE3bA%3D%3D&utm_source=qr))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smgonalez@gmail.com)
 
 ---
